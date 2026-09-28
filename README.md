@@ -171,4 +171,4 @@ Word scores in the database: -1 offensive (never used, filtered), 0 obscure (bon
 
 This public repository is a **showcase**. It contains the documentation for this project. The game is built on a licensed CodeCanyon template, so its source code is kept in a private repository.
 
-Copyright © Omer Avcioglu (McHunter Studio). **All rights reserved.** Viewing only; see LICENSE.
+Copyright © Omer Avcioglu (McHunter Studio). **All rights reserved.** Viewing only; see [LICENSE](LICENSE).
